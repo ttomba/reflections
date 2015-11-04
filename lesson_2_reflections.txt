@@ -1,0 +1,5 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: a file called .git is created so that we can store the versions. We need to do this so that we have a place to store a record of our commits
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: It’s a go-between between the repository and the working directory. It allows you to add multiple files to the repository at once
